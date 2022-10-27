@@ -1,0 +1,32 @@
+body {
+    background-image: url("kavárna.jpg");
+    background-repeat: no-repeat;
+    font-family: 'Quicksand', sans-serif;
+    margin: 60px 80px;
+    font-size: 10px;
+    padding: 50px;
+h1{
+    font-size:14px;
+    text-align: center;
+    background-color: F2EDE9;
+    color: 442F28;
+}
+#uvod{
+    text-position: centre;
+}
+h2{
+    font-size: 12px;
+    text-align: left;
+    background-color: F2EDE9;
+    padding-bottom: 15px;
+    border: medium hidden hidden solid CB9070;
+    color: 442F28;
+}
+#logo{
+    src: obrazky/Untitled-Artwork.png;
+    alt: logo Dog/Mug; 
+    width: 350px; 
+    position: right top;
+    attachment: scroll;
+}
+}
