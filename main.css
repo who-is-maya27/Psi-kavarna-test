@@ -1,4 +1,4 @@
-body {
+body{
     background-image: url("kavárna.jpg");
     background-repeat: no-repeat;
     font-family: 'Quicksand', sans-serif;
@@ -6,27 +6,34 @@ body {
     font-size: 10px;
     padding: 50px;
 h1{
-    font-size:14px;
     text-align: center;
-    background-color: F2EDE9;
-    color: 442F28;
+    background-color: #F2EDE9;
+    color: #442F28;
+    font-size: 14px;    
 }
 #uvod{
-    text-position: centre;
+    text-align: centre;
 }
 h2{
     font-size: 12px;
     text-align: left;
-    background-color: F2EDE9;
+    background-color: #F2EDE9;
     padding-bottom: 15px;
-    border: medium hidden hidden solid CB9070;
-    color: 442F28;
+    border: medium hidden hidden solid #CB9070;
+    color: #442F28;
+}
+#nabidka{
+    text-align: left; 
+    color: white;
+    background-color: #CB9070;
+    padding: 30px;
+    border: 1px solid #442F28;
 }
 #logo{
-    src: obrazky/Untitled-Artwork.png;
+    src: "obrazky/Untitled-Artwork.png";
     alt: logo Dog/Mug; 
     width: 350px; 
     position: right top;
-    attachment: scroll;
+    appearance: scroll;
 }
 }
