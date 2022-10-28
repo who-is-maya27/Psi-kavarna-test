@@ -54,6 +54,10 @@ h3{
     position: right top;
     appearance: scroll;
 }
+#banner{
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
 footer{
     background:#AF4D98;
     color: white;
