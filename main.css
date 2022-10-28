@@ -40,4 +40,58 @@ h2{
     width: 350px; 
     position: right top;
     appearance: scroll;
+}body{
+    background-image: url("kavárna.jpg");
+    background-repeat: no-repeat;
+    font-family: 'Quicksand', sans-serif;
+    margin: 60px 80px;
+    font-size: 14px;
+    padding: 50px;
+    background-color: #F2EDE9;
+}
+header{
+    background-color:#442F28;
+    /* unvisited link */a:link {  color: green;}
+    /* visited link */a:visited {  color: green;}
+    /* mouse over link */a:hover {  color: red;}
+    /* selected link */a:active {  color: yellow;}
+
+[10:21] 
+Tomáš Kruliš, Vodafone odebral(a) uživatele Ondřej Masák, Vodafone z chatu.
+
+
+}
+h1{
+    text-align: center;
+    background-color: #F2EDE9;
+    color: #442F28;
+    font-size: 28px;   
+    padding-bottom: 20px 
+}
+#uvod{
+    text-align: centre;
+}
+h2{
+    font-size: 24px;
+    text-align: left;
+    background-color: #F2EDE9;
+    padding-bottom: 15px;
+    border: medium hidden hidden solid #CB9070;
+    color: #442F28;
+}
+#nabidka{
+    text-align: left; 
+    color: white;
+    background-color: #CB9070;
+    padding: 20px;
+    border: 1px solid #442F28;
+    padding-left: 40px;
+    font-size: 16px;
+}
+#logo{
+    src: "obrazky/Untitled-Artwork.png";
+    alt: logo Dog/Mug; 
+    width: 350px; 
+    position: right top;
+    appearance: scroll;
 }
