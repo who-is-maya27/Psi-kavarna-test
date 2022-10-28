@@ -58,6 +58,9 @@ h3{
     padding-top: 5px;
     padding-bottom: 5px;
 }
+.lišta{
+    float: none;
+}
 footer{
     background:#AF4D98;
     color: white;
