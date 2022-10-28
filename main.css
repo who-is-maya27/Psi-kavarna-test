@@ -9,7 +9,7 @@ body{
     background-color:#A7F7E8;
     color:#442F28;
     font-family: 'Quicksand', sans-serif;
-    padding-bottom: 10px;
+    padding: 3px;
            
 }
 h1{
@@ -91,4 +91,20 @@ a:active{
 }
 .no-wrap{
     flex-wrap: nowrap;
+}
+#odkazy{
+    a:visitor{
+        color:#491B3E;
+    }
+    a:link{
+        color:#491B3E;
+    }
+    a:active{
+        color:white;
+    }
+    a:hover{
+        color:#FDF9FD;
+        text-decoration: none;
+        background-color: #AF4D98;
+    }
 }
