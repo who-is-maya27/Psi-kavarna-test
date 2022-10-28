@@ -9,7 +9,7 @@ body{
     background-color:#A7F7E8;
     color:#442F28;
     font-family: 'Quicksand', sans-serif;
-    padding: 3px;
+    padding-bottom: 10px;
            
 }
 h1{
@@ -91,21 +91,4 @@ a:active{
 }
 .no-wrap{
     flex-wrap: nowrap;
-}
-#menu{
-    a:visitor{
-        color:#491B3E;
-    }
-    a:link{
-        color:#491B3E;
-    }
-    a:active{
-        color:white;
-    }
-    a:hover{
-        color:#FDF9FD;
-        text-decoration: none;
-        background-color: #AF4D98;
-        display: inline-block;
-    }
 }
