@@ -1,3 +1,6 @@
+*{
+    font-family: 'Quicksand', sans-serif;
+  }
 body{
     background-image: url("kavárna.jpg");
     background-repeat: no-repeat;
