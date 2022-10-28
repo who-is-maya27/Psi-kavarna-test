@@ -92,7 +92,7 @@ a:active{
 .no-wrap{
     flex-wrap: nowrap;
 }
-#odkazy{
+#menu{
     a:visitor{
         color:#491B3E;
     }
