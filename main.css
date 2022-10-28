@@ -106,5 +106,6 @@ a:active{
         color:#FDF9FD;
         text-decoration: none;
         background-color: #AF4D98;
+        display: inline-block;
     }
 }
