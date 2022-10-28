@@ -78,3 +78,17 @@ a:link{
 a:active{
     color:white;
 }
+.flexed-row{
+    display: flex;
+    flex-direction: row;
+}
+.flexed-column{
+    display: flex;
+    flex-direction: column;
+}
+.spacer{
+    flex-grow: 1;
+}
+.no-wrap{
+    flex-wrap: nowrap;
+}
