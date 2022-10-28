@@ -70,3 +70,15 @@ footer{
     border-width: medium;
     border-color: #A94993;
 }
+a:hover{
+    color:#FDF9FD;
+}
+a:visitor{
+    color:#491B3E;
+}
+a:link{
+    color:#491B3E;
+}
+a:active{
+    color:white;
+}
