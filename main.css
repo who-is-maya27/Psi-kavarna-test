@@ -1,24 +1,21 @@
 body{
-    background-image: url("kavárna.jpg");
-    background-repeat: no-repeat;
     font-family: 'Quicksand', sans-serif;
     margin: 60px 80px;
-    font-size: 14px;
+    font-size: 16px;
     padding: 50px;
     background-color: #F2EDE9;
 }
 header{
-    background-color:#442F28;
-    /* unvisited link */a:link {  color: green;}
-    /* visited link */a:visited {  color: green;}
-    /* mouse over link */a:hover {  color: red;}
-    /* selected link */a:active {  color: yellow;}
+    background-color:#9DF7E5;
+    color: white;
+    font-family: 'Quicksand', sans-serif;
+    padding-bottom: 10px;
 }
 h1{
     text-align: center;
     background-color: #F2EDE9;
     color: #442F28;
-    font-size: 36px;   
+    font-size: 34px;   
     padding-bottom: 20px 
 }
 #uvod{
@@ -29,7 +26,9 @@ h2{
     text-align: left;
     background-color: #F2EDE9;
     padding-bottom: 15px;
-    border: medium hidden hidden solid #CB9070;
+    border-bottom-style: solid;
+    border-width: 2px;
+    border-color: #CB9070;
     color: #442F28;
 }
 #nabidka{
@@ -39,12 +38,27 @@ h2{
     padding: 20px;
     border: 1px solid #442F28;
     padding-left: 40px;
-    font-size: 16px;
+    font-size: 18px;
+}
+h3{
+    font-size: 20px;
+    border-bottom-style: solid;
+    border-color:#D8CBC0;
 }
 #logo{
+    list-style: circle;
+    list-style-image: url("kavárna.jpg");
     src: "obrazky/Untitled-Artwork.png";
     alt: logo Dog/Mug; 
     width: 150px; 
     position: right top;
     appearance: scroll;
+}
+footer{
+    background:#AF4D98;
+    color: white;
+    padding: 20px;
+    border-style: inset;
+    border-width: medium;
+    border-color: #A23E8B;
 }
