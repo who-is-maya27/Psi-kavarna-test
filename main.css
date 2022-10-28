@@ -63,7 +63,7 @@ footer{
     background:#AF4D98;
     color: white;
     padding: 20px;
-    border-style: inset;
+    border-style: solid;
     border-width: medium;
     border-color: #A94993;
 }
