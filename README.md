@@ -1,2 +1,2 @@
-# Psi-kavarna-test
- Zatím testovací verze
+# Psi-kavarna-Dog/Mug
+ Test byl úspěšný.
